@@ -31,7 +31,7 @@ I'm passionate about building scalable data solutions and turning raw data into 
 | [HKV Power BI Report](https://github.com/Hani-Jinow/HKV-powerbi-report) | **Power BI, DAX, Excel** | Complete interactive dashboards providing actionable insights across Sales, Finance, HR, and Marketing for a fictional grocery retailer. |
 | [Freddy’s Bicycles BI Dashboard](https://github.com/Hani-Jinow/Freddys-bicycles-powerbi) | **Power BI, Power Query, SQL, DAX** | End-to-end business intelligence solution with full ETL process, dimensional modeling, and advanced DAX calculations for business analysis. |
 | [SQL Authentication System](https://github.com/Hani-Jinow/SQL-authentication-system) | **SQL, Database Security** | Secure, role-based login system developed in T-SQL, including salted hashing, login tracking, and stored procedure implementation. |
-| [Banking System Database](https://github.com/Hani-Jinow/banking-system) | **SQL Server, Azure, Database Design** | Comprehensive database solution modeling a full-service banking environment. Focused on data security, normalization, and deployed on Azure SQL. |
+| [Banking System Database](https://github.com/Hani-Jinow/banking-system-database) | **SQL Server, Azure, Database Design** | Comprehensive database solution modeling a full-service banking environment. Focused on data security, normalization, and deployed on Azure SQL. |
 | [NetOnNet E-commerce Database](https://github.com/Hani-Jinow/NetOnNet-Ecommerce) | **Database Modeling, Agile Methodology** | Collaborative project delivering relational (3NF), star, and snowflake schemas for an e-commerce scenario, utilizing agile project management techniques. |
 
 ---
@@ -68,7 +68,7 @@ I'm passionate about building scalable data solutions and turning raw data into 
 ## 🔗 **Let's Connect**
 
 - 📫 [Email](hanijinow@gmail.com)
-- 🔗 [LinkedIn](linkedin.com/in/hani-jinow)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hani-jinow/)
 
 ---
 
