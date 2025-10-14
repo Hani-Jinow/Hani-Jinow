@@ -41,10 +41,9 @@ I'm passionate about building scalable data solutions and turning raw data into 
 
 ## 🎓 **Current Learning Journey**
 
-- ✅ **DevOps & Automation**
-- ✅ **Cloud Data Warehousing (Snowflake & Azure)**
-- ✅ **Database Optimization & Performance Tuning**
-- ✅ **Advanced Data Analytics (DAX & Power BI)**
+- ✅ **ETL/ELT (current course)**
+- ✅ **Cloud Data Engineering**
+- ✅ **Python for Data Engineering**
 
 ---
 
