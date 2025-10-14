@@ -14,10 +14,12 @@ I'm passionate about building scalable data solutions and turning raw data into 
 
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-orange?style=flat-square&logo=Power-BI&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-orange?style=flat-square&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-EF3E2D?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+
 
 ---
 
@@ -27,6 +29,7 @@ I'm passionate about building scalable data solutions and turning raw data into 
 
 | Project 🔗 | Tech & Skills ⚙️ | Description 📌 |
 |------------|------------------|-----------------|
+| [Azure Data Engineering Project](https://github.com/Hani-Jinow/Azure-data-engineering-project) | **Azure Data Factory, Databricks, Delta Lake, and PySpark** | End-to-end Azure data pipeline using ADF, Databricks, and Delta Lake (Medallion architecture, SCB APIs, Cosmos DB, Time Travel & Schema Enforcement) |
 | [CI/CD Pipeline Profiles](https://github.com/Hani-Jinow/CI-CD-pipeline-profiles) | **DevOps, CI/CD, GitHub Actions** | Automated testing and deployment pipelines, showcasing streamlined software development and continuous integration best practices. |
 | [HKV Power BI Report](https://github.com/Hani-Jinow/HKV-powerbi-report) | **Power BI, DAX, Excel** | Complete interactive dashboards providing actionable insights across Sales, Finance, HR, and Marketing for a fictional grocery retailer. |
 | [Freddy’s Bicycles BI Dashboard](https://github.com/Hani-Jinow/Freddys-bicycles-powerbi) | **Power BI, Power Query, SQL, DAX** | End-to-end business intelligence solution with full ETL process, dimensional modeling, and advanced DAX calculations for business analysis. |
@@ -47,26 +50,24 @@ I'm passionate about building scalable data solutions and turning raw data into 
 
 ## 🌟 **Community & Leadership**
 
-- **DataTjej** – Volunteer & Former Treasurer (2022–Present):  
-  Promoting diversity and inclusion in tech, supporting events and mentorship programs.
+- **DataTjej** — Supporting women and non-binary individuals in tech.  
+  - 🎓 Treasurer (2022–2024)  
+  - 🗳️ Election Committee (2025–Present
 
 ---
 
-## 🏢 **Professional Experience**
+## 🌱 About Me
 
-**Client Advisor | Swedbank** _(2023–Present)_  
-- Customer-centric financial advisory role, ensuring high-quality service and leveraging digital tools for efficient client solutions.
-
----
-
-## 📊 **GitHub Stats**
-
-![Hani Jinow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hani-Jinow&show_icons=true&theme=radical)
+- 🎯 Strong background in **SQL, Python, Azure, Databricks, and Power BI**  
+- 📊 Experienced with **database design, pipelines, and data visualization**  
+- 💡 Always learning and seeking internship opportunities starting **December 2025**  
+- 📍 Based in Stockholm, Sweden  
 
 ---
 
 ## 🔗 **Let's Connect**
 
+- ✨ Thanks for visiting my profile! Feel free to explore my projects or connect with me on LinkedIn.
 - 📫 [Email](hanijinow@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hani-jinow/)
 
