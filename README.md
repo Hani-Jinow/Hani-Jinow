@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hani Jinow 
 
-📍 **Stockholm, Sweden** | 🎓 **Data Engineering Student @ Nackademin** (Graduating May 2026)
+📍 **Stockholm, Sweden** | 🎓 **Data Engineering Student @ Nackademin** (Graduating June 2026)
 
 ---
 
