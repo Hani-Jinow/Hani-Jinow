@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a data engineering student with a background in International Business Management and Marketing.  
+I’m a data engineering professional in training with a background in International Business Management and Marketing.  
 Currently completing my internship at Swedbank while working on my thesis project.
 
 I’m passionate about building scalable data solutions, designing robust database systems, and working with modern cloud data platforms.
@@ -30,9 +30,7 @@ My focus areas:
 - DAX
 
 **Data Engineering & Tools**
-- Azure Data Factory
-- Azure Data Lake
-- Azure Databricks (PySpark)
+- Azure (ADF, Data Lake, Databricks)
 - Snowflake
 - Power BI
 - Git & GitHub
