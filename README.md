@@ -1,25 +1,50 @@
-# 👋 Hi, I'm Hani Jinow 
+# Hi, I'm Hani 👋
 
-📍 **Stockholm, Sweden** | 🎓 **Data Engineering Student @ Nackademin** (Graduating June 2026)
-
----
-
-## 🚀 **About Me**
-
-I'm passionate about building scalable data solutions and turning raw data into actionable business insights. With a background in **International Business & Marketing**, I bring a unique blend of analytical skills, business understanding, and technical expertise to my projects. I'm actively seeking an internship starting in December 2025, eager to contribute and grow in a dynamic data-driven team.
+🎓 Final-year Data Engineering student at Nackademin (Graduating June 2026)  
+💼 Data Engineering Intern at Swedbank  
+📍 Based in Stockholm, Sweden  
 
 ---
 
-## 💻 **Tech Stack**
+## 🚀 About Me
 
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-orange?style=flat-square&logo=apachespark&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-EF3E2D?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+I'm a data engineering student with a background in International Business Management and Marketing.  
+Currently completing my internship at Swedbank while working on my thesis project.
 
+I’m passionate about building scalable data solutions, designing robust database systems, and working with modern cloud data platforms.
+
+My focus areas:
+- Data Engineering & ETL/ELT
+- Cloud Data Platforms (Azure)
+- Database Design & Data Modeling
+- Analytics Engineering
+- Financial Data Systems
+
+---
+
+## 🛠 Technical Skills
+
+**Languages & Querying**
+- SQL (Advanced)
+- Python
+- DAX
+
+**Data Engineering & Tools**
+- Azure Data Factory
+- Azure Data Lake
+- Azure Databricks (PySpark)
+- Snowflake
+- Power BI
+- Git & GitHub
+- SQL Server
+
+**Concepts**
+- Star Schema & Snowflake Schema
+- Data Modeling (3NF)
+- Medallion Architecture
+- ETL / ELT Pipelines
+- Data Warehousing
+- CI/CD basics (DevOps)
 
 ---
 
@@ -39,37 +64,22 @@ I'm passionate about building scalable data solutions and turning raw data into 
 
 ---
 
-## 🎓 **Current Learning Journey**
-
-- ✅ **ETL/ELT (current course)**
-- ✅ **Cloud Data Engineering**
-- ✅ **Python for Data Engineering**
-
----
-
 ## 🌟 **Community & Leadership**
 
 - **DataTjej** — Supporting women and non-binary individuals in tech.  
   - 🎓 Treasurer (2022–2024)  
-  - 🗳️ Election Committee (2025–Present
+  - 🗳️ Election Committee (2025–Present)
+  - 🔗 Website: https://datatjej.se/
 
 ---
 
-## 🌱 About Me
+## 📫 Connect With Me
 
-- 🎯 Strong background in **SQL, Python, Azure, Databricks, and Power BI**  
-- 📊 Experienced with **database design, pipelines, and data visualization**  
-- 💡 Always learning and seeking internship opportunities starting **December 2025**  
-- 📍 Based in Stockholm, Sweden  
-
+- Email: (hanijinow@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/hani-jinow/)
+- GitHub: You're already here 🙂
+  
 ---
 
-## 🔗 **Let's Connect**
-
-- ✨ Thanks for visiting my profile! Feel free to explore my projects or connect with me on LinkedIn.
-- 📫 [Email](hanijinow@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hani-jinow/)
-
----
-
+Thanks for visiting my profile! Feel free to explore my projects or connect with me on LinkedIn.
 
