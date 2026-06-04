@@ -1,7 +1,7 @@
 # Hi, I'm Hani 👋
 
-🎓 Final-year Data Engineering student at Nackademin (Graduating June 2026)  
-💼 Data Engineering Intern at Swedbank  
+🎓 Data Engineering graduate from Nackademin (June 2026)  
+💼 Junior Data Engineer | Open to opportunities in Stockholm 
 📍 Based in Stockholm, Sweden  
 
 ---
