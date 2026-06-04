@@ -52,6 +52,7 @@ My focus areas:
 
 | Project 🔗 | Tech & Skills ⚙️ | Description 📌 |
 |------------|------------------|-----------------|
+| [Document Search — RAG Pipeline](https://github.com/Hani-Jinow/document-search) | **Python, Gemini API, Vector Embeddings, LanceDB, NumPy** | End-to-end RAG pipeline that converts documents into vector embeddings and answers questions using semantic search + Gemini generation. |
 | [Azure Data Engineering Project](https://github.com/Hani-Jinow/Azure-data-engineering-project) | **Azure Data Factory, Databricks, Delta Lake, and PySpark** | End-to-end Azure data pipeline using ADF, Databricks, and Delta Lake (Medallion architecture, SCB APIs, Cosmos DB, Time Travel & Schema Enforcement) |
 | [CI/CD Pipeline Profiles](https://github.com/Hani-Jinow/CI-CD-pipeline-profiles) | **DevOps, CI/CD, GitHub Actions** | Automated testing and deployment pipelines, showcasing streamlined software development and continuous integration best practices. |
 | [HKV Power BI Report](https://github.com/Hani-Jinow/HKV-powerbi-report) | **Power BI, DAX, Excel** | Complete interactive dashboards providing actionable insights across Sales, Finance, HR, and Marketing for a fictional grocery retailer. |
