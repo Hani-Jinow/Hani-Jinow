@@ -8,14 +8,16 @@
 
 ## 🚀 About Me
 
-I’m a data engineering professional in training with a background in International Business Management and Marketing.  
-Currently completing my internship at Swedbank while working on my thesis project.
+I'm a Data Engineer based in Stockholm, with a Data Engineering degree from Nackademin (June 2026) and a background in International Business Management and Marketing.
 
-I’m passionate about building scalable data solutions, designing robust database systems, and working with modern cloud data platforms.
+During a 20-week Data Engineering internship at Swedbank I owned a release reporting solution end to end — integrating three internal systems via REST APIs, building Python ETL pipelines with automated testing and CI/CD, and delivering an interactive dashboard. It runs automatically every month and is still in production use.
+
+I'm passionate about building reliable data solutions, designing robust database systems and working with modern cloud data platforms and increasingly, the data infrastructure behind AI applications.
 
 My focus areas:
+
 - Data Engineering & ETL/ELT
-- Cloud Data Platforms (Azure)
+- Cloud Data Platforms (Azure, Databricks)
 - Database Design & Data Modeling
 - Analytics Engineering
 - Financial Data Systems
@@ -27,22 +29,28 @@ My focus areas:
 **Languages & Querying**
 - SQL (Advanced)
 - Python
+- PySpark
 - DAX
 
 **Data Engineering & Tools**
 - Azure (ADF, Data Lake, Databricks)
+- Databricks & Delta Lake
 - Snowflake
+- dbt
+- SSIS, SSAS
 - Power BI
-- Git & GitHub
+- Git & GitHub Actions
 - SQL Server
 
-**Concepts**
+**Concepts & Practices**
 - Star Schema & Snowflake Schema
-- Data Modeling (3NF)
-- Medallion Architecture
-- ETL / ELT Pipelines
+- ETL / ELT pipelines
+- Medallion Architecture (Bronze–Silver–Gold)
+- Data Modeling (3NF, Star & Snowflake Schema, SCD Type 1 & 2)
 - Data Warehousing
-- CI/CD basics (DevOps)
+- CI/CD and automated testing
+- Data quality checks and monitoring
+- Cloud and on-prem solutions
 
 ---
 
